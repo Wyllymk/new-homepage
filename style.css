@@ -16,7 +16,7 @@ p{
 
 .container{
     background-color: hsl(36, 100%, 99%);
-    height: 100vh;
+    height: 980px;
     width: 100vw;
     display: grid;
     justify-items: center;
