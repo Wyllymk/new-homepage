@@ -31,7 +31,12 @@ p{
 
 .hamburger{
     display: none;
+    top: 8vh;
+    right: 3vh;
+    cursor: pointer;
+    transform: translate(0, -50%);
 }
+
 
 .top-bar{
     margin-bottom: 40px;
@@ -196,6 +201,28 @@ h5:hover{
         display: flex;
         padding: 0px 50px;
     }
+    .menu {
+        right: 0;
+        padding-left: 5vh;
+        width: 70%;
+        min-height: 100vh;
+        list-style: none;
+        background-color: white;
+        transform: translateY(-100%);
+        transition: 0.5s;
+    }
+    
+    .menu-item {
+        display: block;
+        padding-bottom: 25px;
+        text-decoration: none;
+        color: black;
+    }
+    
+    .showMenu {
+        transform: translateY(0);
+    }
+    
     .hamburger_closed{
         display: none;
     }
@@ -242,3 +269,14 @@ h5:hover{
         margin: 30px 0px 20px 0px;
     }
  }
+ /* @media (min-width: 760px) and (orientation: portrait) {
+    .menu {
+        padding-left: 5vh;
+        padding-top: 25vh;
+    }
+
+    .menu__item {
+        padding-bottom: 40px;
+        font-size: 2rem;
+    }
+} */
