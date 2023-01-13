@@ -29,7 +29,7 @@ p{
     width: 80%;
 }
 
-.mobile-menu{
+.hamburger{
     display: none;
 }
 
@@ -192,9 +192,12 @@ h5:hover{
     .top-bar{
         
     }
-    .mobile-menu{
+    .hamburger{
         display: flex;
         padding: 0px 50px;
+    }
+    .hamburger_closed{
+        display: none;
     }
     .grid-container{
         display: flex;
