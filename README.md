@@ -39,8 +39,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Find solution URL here](https://github.com/Wyllymk/news-homepage)
-- Live Site URL: [Find live site here](https://wyllymk.github.io/news-homepage/)
+- Solution URL: [My solution URL](https://github.com/Wyllymk/news-homepage)
+- Live Site URL: [My live site](https://wyllymk.github.io/news-homepage/)
 
 ## My process
 
