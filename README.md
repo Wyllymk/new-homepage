@@ -85,9 +85,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://wyllymk.github.io/newport/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Wyllymk)
-- Twitter - [@yourusername](https://twitter.com/WilsonMbuthiaK)
+- Website - [My Portfolio](https://wyllymk.github.io/newport/)
+- Frontend Mentor - [@Wyllymk](https://www.frontendmentor.io/profile/Wyllymk)
+- Twitter - [@WilsonMbuthiaK](https://twitter.com/WilsonMbuthiaK)
 
 
 ## Acknowledgments
